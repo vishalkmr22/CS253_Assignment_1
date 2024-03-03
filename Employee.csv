@@ -1,4 +1,4 @@
-Employee_id,Employee_id_name,Password,NoRentedCars,fine,Employee_record,Car_limit
+Employee_id,Employee_id_name,Password,NoRentedCars,Fine,Employee_record,Car_limit
 1ee0,Kawaljeet,4567,1,140,good,4
 1ee2,Siddhsar,1986,1,0,average,3
 1ee1,ParthS,3456,0,0,average,3
