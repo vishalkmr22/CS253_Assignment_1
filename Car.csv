@@ -1,3 +1,4 @@
+Car_Model,condition,Is_Rented,Renter_Id,Rent_Price,Due_date
 1xx0,average,1,1ee0,400,12-03-2024
 1xx2,average,0,none,410,none
 1xx4,good,1,1cc0,345,19-03-2024

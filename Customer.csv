@@ -1,3 +1,4 @@
+Customer_id,Customer_name,Password,NoRentedCars,fine,Customer_record,Car_limit
 1cc0,Vishal,1234,1,0,good,4
 1cc2,Rohit,3345,1,100,worst,1
 1cc1,Madhav,4758,0,0,average,3
