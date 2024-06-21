@@ -364,6 +364,7 @@ public:
             cout << "No Record Found !" << endl;
             return "";
         }
+        return "";
     }
     vector<string> extractCarData(string mod_no)
     {
@@ -633,6 +634,7 @@ public:
             }
             line = "";
         }
+        return -1;
     }
     int NoOfRentedCars(string customrid)
     {
@@ -666,6 +668,7 @@ public:
             }
             line = "";
         }
+        return -1;
     }
     void Add_Customer()
     {
@@ -1087,6 +1090,7 @@ public:
             }
             line = "";
         }
+        return -1;
     }
     int NoOfRentedCars_emp(string empid)
     {
@@ -1120,6 +1124,7 @@ public:
             }
             line = "";
         }
+        return -1;
     }
     void Add_Employee()
     {
